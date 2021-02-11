@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Tv-ShowApp/static/css/main.000a47a6.chunk.css",
+    "main.js": "/Tv-ShowApp/static/js/main.79c1ccc5.chunk.js",
+    "main.js.map": "/Tv-ShowApp/static/js/main.79c1ccc5.chunk.js.map",
+    "runtime-main.js": "/Tv-ShowApp/static/js/runtime-main.925aa239.js",
+    "runtime-main.js.map": "/Tv-ShowApp/static/js/runtime-main.925aa239.js.map",
+    "static/js/2.b9e6aa80.chunk.js": "/Tv-ShowApp/static/js/2.b9e6aa80.chunk.js",
+    "static/js/2.b9e6aa80.chunk.js.map": "/Tv-ShowApp/static/js/2.b9e6aa80.chunk.js.map",
+    "static/js/3.e4fa7ba1.chunk.js": "/Tv-ShowApp/static/js/3.e4fa7ba1.chunk.js",
+    "static/js/3.e4fa7ba1.chunk.js.map": "/Tv-ShowApp/static/js/3.e4fa7ba1.chunk.js.map",
+    "index.html": "/Tv-ShowApp/index.html",
+    "static/css/main.000a47a6.chunk.css.map": "/Tv-ShowApp/static/css/main.000a47a6.chunk.css.map",
+    "static/js/2.b9e6aa80.chunk.js.LICENSE.txt": "/Tv-ShowApp/static/js/2.b9e6aa80.chunk.js.LICENSE.txt",
+    "static/media/spinner.92b759df.gif": "/Tv-ShowApp/static/media/spinner.92b759df.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.925aa239.js",
+    "static/js/2.b9e6aa80.chunk.js",
+    "static/css/main.000a47a6.chunk.css",
+    "static/js/main.79c1ccc5.chunk.js"
+  ]
+}
